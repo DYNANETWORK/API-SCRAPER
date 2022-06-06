@@ -71,7 +71,7 @@ else:
 
 print(
     """
-Bot Started: Join @DYNA_SUPPORT (https://tx.me/DYNA_SUPPORT)
+Bot Started: Join @DYNA_SUPPORT (https://t.me/DYNA_SUPPORT)
     """
 )
 
