@@ -1,5 +1,5 @@
 {
-  "name": "API SCRAPER",
+  "name": "API SCRAPPER",
   "description": "get your APP ID and API HASH inside Telegram",
   "keywords": [
     "telegram",
@@ -8,7 +8,7 @@
     "scrapper",
     "3"
   ],
-  "repository": "https://github.com/SUKHPAL443/API-SCRAPER",
+  "repository": "https://github.com/SUKHPAL443+/API-SCRAPER",
   "success_url": "https://t.me/DYNA_SUPPORT",
   "website": "https://github.com/SUKHPAL443/API-SCRAPER",
   "env": {
@@ -42,7 +42,6 @@
     "FTEXT": {
       "description": "the footer text that will be seen in the bot message, after the final edit",
       "required": false
-      "value": "@DYNA_NETWORK"
     },
     "START_TEXT": {
       "description": "the start text of the Telegram bot",
